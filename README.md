@@ -17,6 +17,16 @@ I write code, mostly for myself. I has leallsweep name before i changed my usern
 - I mostly build my own projects rather than contribute to others — pull requests and issues from me are rare.
 - Open to helping with code or teaching, if you're interested.
 
+## Primary Projects
+
+- Katela Kernel
+- Boink
+
+## Archived Projects
+
+- Sparkly
+- d2s1
+
 ## Contact
 
 Email: kurwa.offc@proton.me
