@@ -17,12 +17,14 @@ I write code, mostly for myself. I has leallsweep name before i changed my usern
 - I mostly build my own projects rather than contribute to others — pull requests and issues from me are rare.
 - Open to helping with code or teaching, if you're interested.
 
-## Primary Projects
+## Projects
+
+### Primary
 
 - Katela Kernel
 - Boink
 
-## Archived Projects
+### Archived
 
 - Sparkly
 - d2s1
