@@ -28,6 +28,7 @@ I write code, mostly for myself. I has leallsweep name before i changed my usern
 
 - Sparkly
 - d2s1
+- zdeluxe
 
 ## Contact
 
