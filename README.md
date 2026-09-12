@@ -23,7 +23,6 @@ I write code, mostly for myself. I has leallsweep name before i changed my usern
 
 - Katela Kernel
 - ace
-- Boink
 
 ### Archived
 
