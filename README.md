@@ -14,6 +14,7 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 - Main languages: C++, C, Python, occasionally Assembly.
 - OS: Arch Linux.
 - Editor: Neovim.
+- Shell: zsh.
 - I mostly build my own projects rather than contribute to others — pull requests and issues from me are rare.
 - Open to helping with code or teaching, if you're interested.
 
