@@ -6,16 +6,15 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assembly&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 ## About
 
-- Main languages: C++, C, Python, occasionally Assembly.
-- OS: Arch Linux.
+- Main languages: C++, C, Python (For scripts), occasionally Assembly.
+- OS: Linux.
 - Editor: Neovim.
 - Shell: zsh.
-- I mostly build my own projects rather than contribute to others — pull requests and issues from me are rare.
+- I mostly build my own projects, but i really love to contribute some another projects.
 - Open to helping with code or teaching, if you're interested.
 
 ## Projects
