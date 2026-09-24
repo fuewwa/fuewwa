@@ -14,6 +14,7 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 - OS: Linux.
 - Editor: Neovim.
 - Shell: zsh.
+- Favorite theme: gruvbox.
 - I mostly build my own projects, but i really love to contribute some another projects.
 - Open to helping with code or teaching, if you're interested.
 
