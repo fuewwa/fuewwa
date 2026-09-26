@@ -12,7 +12,7 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 
 - Main languages: C++, C, Python (For scripts), occasionally Assembly.
 - OS: Linux.
-- WM: ace (Yes, i really use it).
+- WM: dwm.
 - Editor: Neovim.
 - Shell: zsh.
 - Favorite theme: gruvbox.
