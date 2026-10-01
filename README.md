@@ -11,11 +11,11 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 ## About
 
 - Main languages: C++, C, Python (For scripts), occasionally Assembly.
-- OS: Linux.
+- OS: Debian Linux.
 - WM: dwm.
 - Editor: Neovim.
 - Shell: zsh.
-- Favorite theme: gruvbox.
+- Favorite theme: nord-like.
 - I mostly build my own projects, but i really love to contribute some another projects.
 - Open to helping with code or teaching, if you're interested.
 
