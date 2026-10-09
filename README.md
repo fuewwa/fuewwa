@@ -11,7 +11,7 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 ## About
 
 - Main languages: C++, C, Python (For scripts), occasionally Assembly.
-- OS: Debian Linux.
+- OS: Arch Linux.
 - WM: dwm.
 - Editor: Neovim.
 - Shell: zsh.
