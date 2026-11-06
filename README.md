@@ -11,14 +11,24 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 
 ## About
 
+- Favorite theme: nord-like.
+- I mostly build my own projects, but i really love to contribute some another projects.
+- Open to helping with code or teaching, if you're interested.
 - Main languages: C++, C, Python (For scripts), occasionally Assembly and Rust.
+
+### PC
+
 - OS: Arch Linux.
 - WM: dwm.
 - Editor: Neovim.
 - Shell: zsh.
-- Favorite theme: nord-like.
-- I mostly build my own projects, but i really love to contribute some another projects.
-- Open to helping with code or teaching, if you're interested.
+
+### Laptop
+
+- OS: Void Linux.
+- WM: ace.
+- Editor: Vim.
+- Shell: bash.
 
 ## Projects
 
