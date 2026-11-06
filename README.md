@@ -25,7 +25,7 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 
 ### Laptop
 
-- OS: Void Linux.
+- OS: Void Linux (I secretly hate this).
 - WM: ace.
 - Editor: Vim.
 - Shell: bash.
