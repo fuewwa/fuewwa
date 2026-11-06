@@ -15,6 +15,7 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 - I mostly build my own projects, but i really love to contribute some another projects.
 - Open to helping with code or teaching, if you're interested.
 - Main languages: C++, C, Python (For scripts), occasionally Assembly and Rust.
+- Favorite singer: Ural Gaysin.
 
 ### PC
 
