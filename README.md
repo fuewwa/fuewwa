@@ -29,7 +29,7 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 - OS: Void Linux (I secretly hate this).
 - WM: ace.
 - Editor: Vim.
-- Shell: bash.
+- Shell: mksh.
 
 ## Projects
 
