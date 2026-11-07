@@ -33,6 +33,9 @@ Hello. My favourite programming language is C++. Im bad with English. I has leal
 
 ## Projects
 
+> [!IMPORTANT]
+> Im currently commiting and supporting **only** Katela Kernel. Other projects has been freezed.
+
 ### Primary
 
 - Katela Kernel
