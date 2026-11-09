@@ -46,7 +46,6 @@ Main project: Katela Kernel
 
 ### Archived
 
-- Sparkly
 - d2s1
 - zdeluxe
 - Katela Site (Standalone Repository)
